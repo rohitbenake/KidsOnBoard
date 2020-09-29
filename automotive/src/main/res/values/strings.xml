@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KidsOnBoard</string>
+    <string name="startlblmode">Start LBL Mode</string>
+    <string name="stoplblmode">Stop LBL Mode</string>
+</resources>
